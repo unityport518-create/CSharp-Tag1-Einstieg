@@ -1,9 +1,9 @@
-# CSharp-Tag1-Einstieg
+# CSharp-Tag1-Einstieg#
 
 Kleines Konsolenprogramm in C#.
 Das Programm fragt Name, Wohnort und Alter ab und gibt die Daten formatiert aus.
 
-##Tehnologien:
+##Tehnologien:##
 - C#
 - .NET
 - Visual Studio
