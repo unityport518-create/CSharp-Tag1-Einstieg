@@ -1,0 +1,14 @@
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\bin\Debug\net8.0\Tag1_Einstieg.exe
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\bin\Debug\net8.0\Tag1_Einstieg.deps.json
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\bin\Debug\net8.0\Tag1_Einstieg.runtimeconfig.json
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\bin\Debug\net8.0\Tag1_Einstieg.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\bin\Debug\net8.0\Tag1_Einstieg.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\Tag1_Einstieg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\Tag1_Einstieg.AssemblyInfoInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\Tag1_Einstieg.AssemblyInfo.cs
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\Tag1_Einstieg.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\Tag1_Einstieg.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\refint\Tag1_Einstieg.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\Tag1_Einstieg.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\Tag1_Einstieg.genruntimeconfig.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag1_Einstieg\Tag1_Einstieg\obj\Debug\net8.0\ref\Tag1_Einstieg.dll
