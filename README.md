@@ -9,7 +9,6 @@ Das Programm fragt Name, Wohnort und Alter ab und gibt die Daten formatiert aus.
 - .NET
 - Visual Studio
 
-
 ## Mini-Spiel: Zahlenraten
 Dieses Konsolenprogramm in C# generiert eine Zahl zwischen 1 und 10. 
 Nachdem der Benutzer geraten hat, gibt das Programm zurück, ob die Zahl 
