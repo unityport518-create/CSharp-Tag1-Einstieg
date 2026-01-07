@@ -1,0 +1,14 @@
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\bin\Debug\net8.0\Tag2_Zahlenraten-Spiel.exe
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\bin\Debug\net8.0\Tag2_Zahlenraten-Spiel.deps.json
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\bin\Debug\net8.0\Tag2_Zahlenraten-Spiel.runtimeconfig.json
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\bin\Debug\net8.0\Tag2_Zahlenraten-Spiel.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\bin\Debug\net8.0\Tag2_Zahlenraten-Spiel.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\Tag2_Zahlenraten-Spiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\Tag2_Zahlenraten-Spiel.AssemblyInfoInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\Tag2_Zahlenraten-Spiel.AssemblyInfo.cs
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\Tag2_Zahlenraten-Spiel.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\Tag2_Zahlenraten-Spiel.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\refint\Tag2_Zahlenraten-Spiel.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\Tag2_Zahlenraten-Spiel.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\Tag2_Zahlenraten-Spiel.genruntimeconfig.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag2_Zahlenraten-Spiel\Tag2_Zahlenraten-Spiel\obj\Debug\net8.0\ref\Tag2_Zahlenraten-Spiel.dll
