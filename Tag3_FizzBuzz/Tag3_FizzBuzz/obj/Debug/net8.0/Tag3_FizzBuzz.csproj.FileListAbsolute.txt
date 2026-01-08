@@ -1,0 +1,14 @@
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\bin\Debug\net8.0\Tag3_FizzBuzz.exe
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\bin\Debug\net8.0\Tag3_FizzBuzz.deps.json
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\bin\Debug\net8.0\Tag3_FizzBuzz.runtimeconfig.json
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\bin\Debug\net8.0\Tag3_FizzBuzz.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\bin\Debug\net8.0\Tag3_FizzBuzz.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\Tag3_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\Tag3_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\Tag3_FizzBuzz.AssemblyInfo.cs
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\Tag3_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\Tag3_FizzBuzz.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\refint\Tag3_FizzBuzz.dll
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\Tag3_FizzBuzz.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\Tag3_FizzBuzz.genruntimeconfig.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Tag3_FizzBuzz\Tag3_FizzBuzz\obj\Debug\net8.0\ref\Tag3_FizzBuzz.dll
