@@ -28,3 +28,18 @@ int geheimzahl = random.Next(1, 11);
 ```
 - Konsolenein- und -ausgabe
 
+## FizzBuzz
+Kleines Konsolenprogramm in C#.
+Dieses Programm gibt für jede Zahl von 1 bis 100:
+- „FizzBuzz“ aus, wenn die Zahl durch 3 und 5 teilbar ist
+- „Fizz“ aus, wenn die Zahl nur durch 3 teilbar ist
+- „Buzz“ aus, wenn die Zahl nur durch 5 teilbar ist
+Ansonsten gibt es die Zahl selbst aus.
+
+### Verwendete Konzepte:
+- while-Schleife
+- if / else if / else
+- Modulo-Operator
+- logische Operatoren
+
+
